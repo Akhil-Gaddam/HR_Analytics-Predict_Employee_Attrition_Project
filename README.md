@@ -16,6 +16,7 @@ The dataset contains employee information including Age, , Employee Id, departme
 - Loaded and cleaned the dataset.
 - Explored attrition distribution across departments, salary bands, and promotions.
 
+
 ### 2️.Preprocessing
 - Label Encoding for the target variable.
 - One-Hot Encoding for categorical features.
@@ -34,6 +35,14 @@ The dataset contains employee information including Age, , Employee Id, departme
   - Attrition % vs Years Since Last Promotion (line chart).
   - Slicers for Department, Gender, Marital Status.
 - Captured screenshots for reporting.
+- 
+## Screenshots of Power BI Visualizations
+
+<img width="1396" height="787" alt="Screenshot 10" src="https://github.com/user-attachments/assets/743d8055-e5be-4ccc-ba79-26d80ab8ef7f" />
+<img width="1408" height="795" alt="Screenshot 9" src="https://github.com/user-attachments/assets/dc720a70-b4c0-465d-acfc-30d0263f155f" />
+<img width="1406" height="789" alt="Screenshot 8" src="https://github.com/user-attachments/assets/b07084a2-d4e5-4a8d-9ac5-a935fed98570" />
+<img width="1919" height="976" alt="Screenshot 7" src="https://github.com/user-attachments/assets/4cf90687-fbac-4ef0-9b0a-2c10dfd010d4" />
+
 
 ## Key Insights
 - Employees with longer promotion gaps have higher attrition.
@@ -41,20 +50,21 @@ The dataset contains employee information including Age, , Employee Id, departme
 - SHAP analysis identified `YearsSinceLastPromotion`, `MonthlyIncome`, and `JobRole` as significant factors.
 
 ## Files Included
-- `HR_Employee_Attrition_Cleaned.ipynb` - Complete Jupyter Notebook.
-- `Clean_HR_Attrition.csv` - Cleaned dataset for Power BI.
-- `HR_Employee_Attrition.pbix` - Power BI Dashboard.
-- `HR_Attrition_Report.pdf` - 2-page project report.
+- 'HR_Employee_Attrition.csv'- Dataset for Jupyter Notebook
+- `HR_Employee_Attrition.ipynb` - Complete Jupyter Notebook.
+- `Clean_HR_Attrition_PowerBI.csv` - Cleaned dataset for Power BI.
+- `HR_Employee_Attrition_PowerBI.pbix` - Power BI Dashboard.
+- `HR_Employee_Attrition_Report.pdf` - 2-page project report.
 
 ## How to Run
 1. Clone this repository:
     ```
     git clone <repo-link>
     ```
-2. Open `HR_Employee_Attrition_Cleaned.ipynb` in Jupyter Notebook and run cells in order.
-3. Open `Clean_HR_Attrition.csv` in Power BI to explore the dashboard.
-4. Read `HR_Attrition_Report.pdf` for project summary and insights.
+2. Upload 'HR_Employee_Attrition.csv' file in jupyter Notebook and Load the Dataset.       
+3. Open `HR_Employee_Attrition.ipynb` in Jupyter Notebook and run cells in order.
+4. Open `HR_Employee_Attrition_PowerBI.pbix` in Power BI to explore the dashboard.
+5. Read `HR_Employee_Attrition_Report.pdf` for project summary and insights.
 
 
 **Prepared by:** Akhil Gaddam
-
