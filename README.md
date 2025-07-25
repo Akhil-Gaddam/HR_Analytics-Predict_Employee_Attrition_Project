@@ -8,7 +8,7 @@ This project analyzes HR employee data to identify key reasons for employee resi
 - Power BI
 
 ## Dataset
-The dataset contains employee information including Age, , Employee Id, department, salary, years since last promotion, job role, and attrition status (Yes/No).
+The dataset contains employee information including Age, employee id, department, salary, years since last promotion, job role, and attrition status (Yes/No), etc...
 
 ## Workflow
 
@@ -35,19 +35,19 @@ The dataset contains employee information including Age, , Employee Id, departme
   - Attrition % vs Years Since Last Promotion (line chart).
   - Slicers for Department, Gender, Marital Status.
 - Captured screenshots for reporting.
+  
 ## Screenshots
-<img width="1073" height="770" alt="Screenshot 6" src="https://github.com/user-attachments/assets/be7e6f57-8f2b-457e-b3be-9b9f6b0bf6d4" />
-<img width="1118" height="930" alt="Screenshot 5" src="https://github.com/user-attachments/assets/963142da-459f-4384-91f7-f937d5c95aff" />
-<img width="1091" height="875" alt="Screenshot 4" src="https://github.com/user-attachments/assets/36b7ca25-ed62-4d08-983f-0c4c9329a37b" />
-<img width="897" height="910" alt="Screenshot 3" src="https://github.com/user-attachments/assets/5f913477-2614-442f-ae25-c9a8bdee9916" />
-<img width="1376" height="929" alt="Screenshot 2" src="https://github.com/user-attachments/assets/666f151e-3a29-42e7-ab30-1f23e4959153" />
+
 <img width="1018" height="602" alt="Screenshot 1" src="https://github.com/user-attachments/assets/bdc0bb6c-97c1-41b2-9252-afb3c8cc1148" />
-
-
-<img width="1396" height="787" alt="Screenshot 10" src="https://github.com/user-attachments/assets/743d8055-e5be-4ccc-ba79-26d80ab8ef7f" />
-<img width="1408" height="795" alt="Screenshot 9" src="https://github.com/user-attachments/assets/dc720a70-b4c0-465d-acfc-30d0263f155f" />
-<img width="1406" height="789" alt="Screenshot 8" src="https://github.com/user-attachments/assets/b07084a2-d4e5-4a8d-9ac5-a935fed98570" />
+<img width="1376" height="929" alt="Screenshot 2" src="https://github.com/user-attachments/assets/666f151e-3a29-42e7-ab30-1f23e4959153" />
+<img width="897" height="910" alt="Screenshot 3" src="https://github.com/user-attachments/assets/5f913477-2614-442f-ae25-c9a8bdee9916" />
+<img width="1091" height="875" alt="Screenshot 4" src="https://github.com/user-attachments/assets/36b7ca25-ed62-4d08-983f-0c4c9329a37b" />
+<img width="1118" height="930" alt="Screenshot 5" src="https://github.com/user-attachments/assets/963142da-459f-4384-91f7-f937d5c95aff" />
+<img width="1073" height="770" alt="Screenshot 6" src="https://github.com/user-attachments/assets/be7e6f57-8f2b-457e-b3be-9b9f6b0bf6d4" />
 <img width="1919" height="976" alt="Screenshot 7" src="https://github.com/user-attachments/assets/4cf90687-fbac-4ef0-9b0a-2c10dfd010d4" />
+<img width="1406" height="789" alt="Screenshot 8" src="https://github.com/user-attachments/assets/b07084a2-d4e5-4a8d-9ac5-a935fed98570" />
+<img width="1408" height="795" alt="Screenshot 9" src="https://github.com/user-attachments/assets/dc720a70-b4c0-465d-acfc-30d0263f155f" />
+<img width="1396" height="787" alt="Screenshot 10" src="https://github.com/user-attachments/assets/743d8055-e5be-4ccc-ba79-26d80ab8ef7f" />
 
 
 ## Key Insights
