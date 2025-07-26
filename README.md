@@ -56,7 +56,7 @@ The dataset contains employee information including Age, employee id, department
 - SHAP analysis identified `YearsSinceLastPromotion`, `MonthlyIncome`, and `JobRole` as significant factors.
 
 ## Files Included
-- 'HR_Employee_Attrition.csv'- Dataset for Jupyter Notebook
+- `HR_Employee_Attrition.csv`- Dataset for Jupyter Notebook
 - `HR_Employee_Attrition.ipynb` - Complete Jupyter Notebook.
 - `Clean_HR_Attrition_PowerBI.csv` - Cleaned dataset for Power BI.
 - `HR_Employee_Attrition_PowerBI.pbix` - Power BI Dashboard.
@@ -65,12 +65,14 @@ The dataset contains employee information including Age, employee id, department
 ## How to Run
 1. Clone this repository:
     ```
-    git clone <https://github.com/Akhil-Gaddam/HR_Analytics-Predict_Employee_Attrition_Project.git>
+    git clone https://github.com/Akhil-Gaddam/HR_Analytics-Predict_Employee_Attrition_Project.git
     ```
-2. Upload 'HR_Employee_Attrition.csv' file in jupyter Notebook and Load the Dataset.       
+2. Upload `HR_Employee_Attrition.csv` file in jupyter Notebook and Load the Dataset.       
 3. Open `HR_Employee_Attrition.ipynb` in Jupyter Notebook and run cells in order.
 4. Open `HR_Employee_Attrition_PowerBI.pbix` in Power BI to explore the dashboard.
 5. Read `HR_Employee_Attrition_Report.pdf` for project summary and insights.
+
+
 
 
 **Prepared by:** Akhil Gaddam
