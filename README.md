@@ -4,7 +4,7 @@
 This project analyzes HR employee data to identify key reasons for employee resignation and predict future attrition using machine learning. Python in Jupyter Notebook was used for data cleaning, exploration, and model building, while Power BI was used to create interactive dashboards for visualizing insights to support HR decision-making.
 
 ## Tools Used
-- Jupyter Notebook (Python: Pandas, Seaborn, Sklearn, SHAP)
+- Jupyter Notebook (Python: Pandas, Matplotlib, Seaborn, Sklearn, SHAP)
 - Power BI
 
 ## Dataset
