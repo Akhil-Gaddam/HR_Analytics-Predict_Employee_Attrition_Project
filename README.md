@@ -65,7 +65,7 @@ The dataset contains employee information including Age, employee id, department
 ## How to Run
 1. Clone this repository:
     ```
-    git clone <[repo-link](https://github.com/Akhil-Gaddam/HR_Analytics-Predict_Employee_Attrition_Project.git)>
+    git clone <https://github.com/Akhil-Gaddam/HR_Analytics-Predict_Employee_Attrition_Project.git>
     ```
 2. Upload 'HR_Employee_Attrition.csv' file in jupyter Notebook and Load the Dataset.       
 3. Open `HR_Employee_Attrition.ipynb` in Jupyter Notebook and run cells in order.
